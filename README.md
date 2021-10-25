@@ -1,2 +1,1 @@
-# FrivOldMenuRecreation
-Recreation of the old menu of Friv.
+# Recreation of the old menu of Friv
